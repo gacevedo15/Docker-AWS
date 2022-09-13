@@ -1,6 +1,6 @@
 FROM nginx:latest
 
-LABEL maintainer="Actrafer Solutions S.L. <lasalleonlinegrupob@gmail.com>"
+LABEL maintainer="Actrafer Solutions S.L. <gacevedoalfonso@gmail.com>"
 
 RUN rm /usr/share/nginx/html/index.html
 
